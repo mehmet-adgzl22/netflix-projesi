@@ -1,13 +1,17 @@
 # Netflix-Projesi
 
-
+Bu proje Html ve Css birlikte kullanılarak yapılmıştıri.
 
 
 
 
 
 # Netflix-Projesi Özellikleri
-
+<ul>
+  <li> Projemiz Html ve Css'in temel özelliklerini öğrenmek için yapılmıştır.
+</li>
+ <li> Projenin kullanımı gayet basit bir arayüz ile oluşturulmuştur.</li>
+</ul>
 
 
 
