@@ -1,6 +1,6 @@
 # Netflix-Projesi
 
-Bu proje Html ve Css birlikte kullanılarak yapılmıştıri.
+Bu proje Html ve Css birlikte kullanılarak yapılmıştır.
 
 
 
