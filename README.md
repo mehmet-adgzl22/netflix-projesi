@@ -13,7 +13,15 @@ Bu proje Html ve Css birlikte kullanılarak yapılmıştır.
  <li> Projenin kullanımı gayet basit bir arayüz ile oluşturulmuştur.</li>
 </ul>
 
+# Projede Kullanılan Diller ve Araçlar
 
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li> Javascript</li>
+  <li>Visual Studio Code</li>
+ 
+</ul>
 
 
 
