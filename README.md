@@ -26,4 +26,5 @@ Bu proje Html ve Css birlikte kullanılarak yapılmıştır.
 
 
 # Netflix-Projesi Ekran Görüntüsü
-![Ekran görüntüsü](https://github.com/mehmet-adgzl22/netflix-projesi/assets/169144147/0eb6bb6a-1347-4e7e-945b-b5db3714ded1)
+![netflix](https://github.com/mehmet-adgzl22/netflix-projesi/assets/169144147/5ed5dd02-5d70-406c-ad01-e6ba3a192ba2)
+
