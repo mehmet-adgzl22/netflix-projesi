@@ -23,6 +23,8 @@ Bu proje Html ve Css birlikte kullanılarak yapılmıştır.
  
 </ul>
 
+# Proje Bağlantı Linki
+https://udemig-project-11hs.netlify.app/
 
 
 # Netflix-Projesi Ekran Görüntüsü
